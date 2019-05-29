@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a senior at Rice University studying Computer Science. This is my blog for recent Machine Learning research which I am involved in. I'm conducting research on hashing with Professor Anshumali Shrivastava as well as Machine Learning optimization with Professor Anastasios Kyrillidis. In my free time I enjoy playing and watching basketball (go Stephen Curry!), soccer (go Liverpool!), taking photographs and drinking coffee.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[johnchen@rice.edu](mailto:johnchen@rice.edu)
