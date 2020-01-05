@@ -8,6 +8,6 @@ You can contact me at [johnchen@rice.edu](mailto:johnchen@rice.edu)
 
 **Decaying Momentum Helps Neural Network Training**. Chen, J. and Kyrillidis, A. _Preprint and in NeurIPS opt-ml workshop_, 2019. [[arxiv]](https://arxiv.org/abs/1910.04952)
 
-**Negative sampling in semi-supervised learning**. Chen, J. and Shah, V. and Kyrillidis, A. _Preprint_. [arxiv](https://arxiv.org/abs/1911.05166)
+**Negative sampling in semi-supervised learning**. Chen, J. and Shah, V. and Kyrillidis, A. _Preprint_. [[arxiv]](https://arxiv.org/abs/1911.05166)
 
-**Revisiting Consistent Hashing with Bounded Loads**. Chen, J. and Coleman, B. and Shrivastava, A. _Submitted to AISTATS_. [arxiv](https://arxiv.org/abs/1908.08762)
+**Revisiting Consistent Hashing with Bounded Loads**. Chen, J. and Coleman, B. and Shrivastava, A. _Submitted to AISTATS_. [[arxiv]](https://arxiv.org/abs/1908.08762)
