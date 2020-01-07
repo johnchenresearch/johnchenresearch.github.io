@@ -10,4 +10,4 @@ You can contact me at [johnchen@rice.edu](mailto:johnchen@rice.edu)
 
 **Negative sampling in semi-supervised learning**. Chen, J. and Shah, V. and Kyrillidis, A. _Preprint_. [[arxiv]](https://arxiv.org/abs/1911.05166)
 
-**Revisiting Consistent Hashing with Bounded Loads**. Chen, J. and Coleman, B. and Shrivastava, A. _Submitted to AISTATS_. [[arxiv]](https://arxiv.org/abs/1908.08762)
+**Revisiting Consistent Hashing with Bounded Loads**. Chen, J. and Coleman, B. and Shrivastava, A. _Preprint_. [[arxiv]](https://arxiv.org/abs/1908.08762)
