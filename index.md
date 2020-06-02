@@ -5,9 +5,8 @@ In 2018, I interned at 3Red Trading, where I applied Machine Learning to trade e
 You can contact me at [johnchen@rice.edu](mailto:johnchen@rice.edu)
 
 ### Publications
+**Negative sampling in semi-supervised learning**. Chen, J. and Shah, V. and Kyrillidis, A. _In ICML, 2020_. [[arxiv]](https://arxiv.org/abs/1911.05166)
 
 **Decaying Momentum Helps Neural Network Training**. Chen, J. and Kyrillidis, A. _Preprint and in NeurIPS opt-ml workshop_, 2019. [[arxiv]](https://arxiv.org/abs/1910.04952)
-
-**Negative sampling in semi-supervised learning**. Chen, J. and Shah, V. and Kyrillidis, A. _Preprint_. [[arxiv]](https://arxiv.org/abs/1911.05166)
 
 **Revisiting Consistent Hashing with Bounded Loads**. Chen, J. and Coleman, B. and Shrivastava, A. _Preprint_. [[arxiv]](https://arxiv.org/abs/1908.08762)
